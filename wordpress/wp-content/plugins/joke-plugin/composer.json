@@ -1,0 +1,15 @@
+{
+    "name": "mtayy/joke-plugin",
+    "description": "Awesome starter plugin example",
+    "type": "project",
+    "license": "GPL",
+    "authors": [{
+        "name": "Mohammed Tayyab Hussain",
+        "email": "mtayyabh@hotmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Inc\\": "./inc" }
+    }
+}
